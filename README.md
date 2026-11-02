@@ -1,80 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hello,%20World!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=210&section=header&text=Soham%20Hazra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Technology%20%7C%20Building%20Ideas&descAlignY=58&descSize=18" width="100%"/>
 
-Hey there! 👋 I'm YOUR_USERNAME
-BBA Student | Tech Enthusiast | Aspiring Developer
+Hey there! 👋 I'm Soham Hazra
+🎓 BBA Student | 💻 Tech Enthusiast | 🚀 Aspiring Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Technology;Learning+Frontend+%26+Backend+Development;Building+Projects+and+Learning+Every+Day;Curious+About+AI+%26+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Curious+About+Technology;Exploring+Frontend+%26+Backend+Development;Learning+React+and+JavaScript;Exploring+AI+%26+Innovation;Building+Projects+One+Step+at+a+Time" alt="Typing SVG"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2563eb&style=flat" />
+</p>
 
 </div>
 
 👨‍💻 About Me
-🎓 I'm a BBA student with a deep curiosity about technology.
-💻 Currently exploring web development and programming.
-🌱 Learning frontend and backend development.
-🤖 Interested in AI, RAG, and emerging technologies.
-🚀 Building projects to turn ideas into reality.
-📚 Believe in learning by building and experimenting.
-🎯 My goal is to continuously improve my technical skills and contribute to the developer community.
+
+Hey! I'm Soham Hazra, a BBA student with a deep curiosity and enthusiasm for technology.
+
+Although my academic background is in business administration, I'm fascinated by the world of programming, software development, and emerging technologies.
+
+I'm currently exploring the tech ecosystem, learning new skills, and building projects to understand how things work behind the scenes.
+
+🎓 Pursuing Bachelor of Business Administration (BBA).
+💻 Exploring frontend and backend development.
+🌱 Learning React.js, JavaScript, and Python.
+🤖 Interested in Artificial Intelligence and emerging technologies.
+🧩 Learning by building practical projects.
+🚀 Open to collaboration, learning, and new opportunities.
+
+My philosophy: Learn something new, build something useful, and keep growing.
+
 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,git,github,vscode&perline=5" />
+Languages & Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mongodb&perline=4" />
+
+Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=4" />
 
 </div>
 
 🚀 My Projects
-Project	Description	Technology
-📅 Online Booking System	A web application for online booking management.	JavaScript
-💰 Personal Finance Tracker	Track income, expenses, and personal savings.	JavaScript
-🧮 Smart Split Calculator	Split bills, calculate expenses, and manage shared payments.	JavaScript
-🤖 RAG Project	Exploring Retrieval-Augmented Generation concepts.	Python
+📅 Online Booking System
+
+A web-based application designed to simplify the online booking process.
+
+Technology: JavaScript
+
+💰 Personal Finance Expense Tracker
+
+A personal finance application designed to track income, expenses, and savings.
+
+Technology: JavaScript
+
+🧮 Smart Split Calculator
+
+A smart bill-splitting application that helps users divide expenses, calculate tips, and manage shared payments.
+
+Technology: JavaScript / React.js
+
+🤖 RAG Project
+
+Exploring Retrieval-Augmented Generation (RAG) and understanding how AI systems retrieve relevant information to generate responses.
+
+Technology: Python
+
 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
-🐍 My Contribution Journey
+📈 My GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 🌱 Currently Learning
 React.js and modern frontend development
+JavaScript and programming fundamentals
 Backend development with Node.js
 Python and AI fundamentals
+Databases and application development
 Git and GitHub
-Building real-world applications
+🎯 My Goals
+🚀 Build meaningful real-world projects.
+💻 Strengthen my frontend and backend development skills.
+🌍 Explore open-source contributions.
+🤝 Connect with developers and tech communities.
+🎪 Participate in developer events like GDG DevFest.
+📚 Never stop learning and experimenting.
 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in learning, collaborating, and connecting with people who love technology.
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
+💬 Always open to learning, collaboration, and meaningful conversations about technology.
+
 ⭐ Thanks for visiting my profile!
 
 Keep Learning. Keep Building. Keep Growing.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:2563EB&height=120&section=footer" width="100%"/>
 
 </div>
